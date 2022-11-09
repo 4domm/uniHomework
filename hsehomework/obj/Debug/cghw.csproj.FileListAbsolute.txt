@@ -1,0 +1,14 @@
+D:\c#stuff\cghw\bin\Debug\cghw.exe
+D:\c#stuff\cghw\bin\Debug\cghw.pdb
+D:\c#stuff\cghw\obj\Debug\cghw.csproj.AssemblyReference.cache
+D:\c#stuff\cghw\obj\Debug\cghw.csproj.SuggestedBindingRedirects.cache
+D:\c#stuff\cghw\obj\Debug\cghw.csproj.CoreCompileInputs.cache
+D:\c#stuff\cghw\obj\Debug\cghw.exe
+D:\c#stuff\cghw\obj\Debug\cghw.pdb
+C:\Users\Георгий\Desktop\cghw\bin\Debug\cghw.exe
+C:\Users\Георгий\Desktop\cghw\bin\Debug\cghw.pdb
+C:\Users\Георгий\Desktop\cghw\obj\Debug\cghw.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\cghw\obj\Debug\cghw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Георгий\Desktop\cghw\obj\Debug\cghw.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\cghw\obj\Debug\cghw.exe
+C:\Users\Георгий\Desktop\cghw\obj\Debug\cghw.pdb
