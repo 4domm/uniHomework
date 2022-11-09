@@ -3,10 +3,6 @@ using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-//Георгий Юрченко Романович БПИ-224-2
-//Ср по обработке csv-файлов.
-//Вариант 7. Back in the game
-
 namespace cghw
 {
     internal class Program
